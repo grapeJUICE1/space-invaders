@@ -18,6 +18,4 @@ pip install pygame
 
 ![pic 3](https://github.com/grapeJUICE1/space-invaders/blob/master/screenshots/space-invaders-3.png?raw=true)
 
-If you have any issues or you wanna contact me .. You can mail me here
 
-abraraar93@gmail.com
